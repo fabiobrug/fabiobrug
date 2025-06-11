@@ -1,8 +1,8 @@
-<h3>Oi, Sou Fabio Brugnara</h3>
+<h3>Hello, I'm Fabio Brugnara</h3>
 
-- 🌱 Atualmente cursando C++, HTML, CSS e JavaScript;
+- 🌱 I'm currently studying C++, HTML, CSS, and JavaScript;
 
-- 📫 Contate-me no email: **fabiobrug2006@gmail.com**
+- 📫 You can reach me at: **fabiobrug2006@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
