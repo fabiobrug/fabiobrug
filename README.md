@@ -28,7 +28,7 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,c,cpp)](https://github.com/fabiobrug)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,c,cpp,python)](https://github.com/fabiobrug)
 
 ### 🎨 &nbsp;Front-end
 
