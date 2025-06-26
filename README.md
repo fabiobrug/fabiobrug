@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFA6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Fabio+Brugnara;I'm+a+Software+Engineering+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFA6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Fabio+Brugnara;I'm+a+Computer+Science+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Fabio Brugnara`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabiobrug&bg_color=0d1117&color=00BFA6&line=00BFA6&point=00BFA6&area=true&area_color=00BFA6&hide_border=true)](https://github.com/fabiobrug/)
 
