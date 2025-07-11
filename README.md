@@ -32,7 +32,7 @@
 
 ### 🎨 &nbsp;Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,jquery,bootstrap,swig)](https://github.com/fabiobrug)
 
 ### 🗃️ &nbsp;Database
 
