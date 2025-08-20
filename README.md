@@ -36,7 +36,7 @@
 
 ### 🗃️ &nbsp;Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase)](https://github.com/fabiobrug)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mogodb)](https://github.com/fabiobrug)
 
 <br>
 
