@@ -21,15 +21,15 @@
 
 ### 👨🏻‍💻 &nbsp;Back-end
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,c,cpp,python,flask)](https://github.com/fabiobrug)
+[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,express,c,cpp,python,flask,java)](https://github.com/fabiobrug)
 
 ### 🎨 &nbsp;Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
 
 ### 🗃️ &nbsp;Database
 
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mogodb)](https://github.com/fabiobrug)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)](https://github.com/fabiobrug)
 
 <br>
 
