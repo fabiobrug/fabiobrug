@@ -25,7 +25,7 @@
 
 ### 🎨 &nbsp;Front-end
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
+[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
 
 ### 🗃️ &nbsp;Database
 
