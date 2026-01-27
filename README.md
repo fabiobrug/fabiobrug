@@ -20,16 +20,19 @@
 ## 🛠 &nbsp;Languages & Techs
 
 ### 👨🏻‍💻 &nbsp;Back-end
+## 🛠 &nbsp;Languages & Techs
 
-[![Back-end Development Skills](https://skillicons.dev/icons?i=nodejs,nest,express,c,cpp,python,flask,java)](https://github.com/fabiobrug)
+### 👨🏻‍💻 &nbsp;Back-end & AI
+[![Back-end Skills](https://skillicons.dev/icons?i=nodejs,nest,express,python,flask,java,c,cpp,supabase)](https://github.com/fabiobrug)
 
-### 🎨 &nbsp;Front-end
+### 🎨 &nbsp;Front-end & Mobile
+[![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,reactnative)](https://github.com/fabiobrug)
 
-[![Front-end Development Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,jquery,bootstrap)](https://github.com/fabiobrug)
+### 🗃️ &nbsp;Database & Cloud
+[![Database & Cloud Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,docker)](https://github.com/fabiobrug)
 
-### 🗃️ &nbsp;Database
-
-[![Database Skills](https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres)](https://github.com/fabiobrug)
+### ⌨️ &nbsp;Environment & Tools
+[![Tools](https://skillicons.dev/icons?i=neovim,linux,git,github,githubactions,figma)](https://github.com/fabiobrug)
 
 <br>
 
