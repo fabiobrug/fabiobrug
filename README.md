@@ -19,20 +19,14 @@
 
 ## 🛠 &nbsp;Languages & Techs
 
-### 👨🏻‍💻 &nbsp;Back-end
-## 🛠 &nbsp;Languages & Techs
-
 ### 👨🏻‍💻 &nbsp;Back-end & AI
-[![Back-end Skills](https://skillicons.dev/icons?i=nodejs,nest,express,python,flask,java,c,cpp,supabase)](https://github.com/fabiobrug)
+[![Back-end Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,nodejs,nest,express,python,flask)](https://github.com/fabiobrug)
 
 ### 🎨 &nbsp;Front-end & Mobile
 [![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,reactnative)](https://github.com/fabiobrug)
 
 ### 🗃️ &nbsp;Database & Cloud
-[![Database & Cloud Skills](https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,aws,docker)](https://github.com/fabiobrug)
-
-### ⌨️ &nbsp;Environment & Tools
-[![Tools](https://skillicons.dev/icons?i=neovim,linux,git,github,githubactions,figma)](https://github.com/fabiobrug)
+[![Database & Cloud Skills](https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,firebase,,mysql)](https://github.com/fabiobrug)
 
 <br>
 
