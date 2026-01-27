@@ -26,7 +26,7 @@
 [![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,reactnative)](https://github.com/fabiobrug)
 
 ### 🗃️ &nbsp;Database & Cloud
-[![Database & Cloud Skills](https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,firebase,,mysql)](https://github.com/fabiobrug)
+[![Database & Cloud Skills](https://skillicons.dev/icons?i=aws,docker,postgres,mongodb,mysql,firebase,mysql)](https://github.com/fabiobrug)
 
 <br>
 
