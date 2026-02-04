@@ -28,5 +28,3 @@
 [![Database & Cloud Skills](https://skillicons.dev/icons?i=aws,docker,dynamodb,postgres,mongodb,mysql,firebase)](https://github.com/fabiobrug)
 
 <br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=120&section=footer"/>
