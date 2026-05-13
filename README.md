@@ -19,10 +19,10 @@
 ## &nbsp;Languages & Techs
 
 ### &nbsp;Back-end & AI
-[![Back-end Skills](https://skillicons.dev/icons?i=go,java,c,cpp,cs,nodejs,nest,express,python,flask)](https://github.com/fabiobrug)
+[![Back-end Skills](https://skillicons.dev/icons?i=go,python,django,fastapi,langchain,java,c,cpp,cs,nodejs,nest,express,flask)](https://github.com/fabiobrug)
 
 ### &nbsp;Front-end & Mobile
-[![Front-end Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,reactnative)](https://github.com/fabiobrug)
+[![Front-end Skills](https://skillicons.dev/icons?i=swift,ts,js,react,nextjs,angular,html,css,tailwind,reactnative)](https://github.com/fabiobrug)
 
 ### &nbsp;Database & Cloud
 [![Database & Cloud Skills](https://skillicons.dev/icons?i=aws,docker,dynamodb,postgres,mongodb,mysql,firebase)](https://github.com/fabiobrug)
